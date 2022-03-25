@@ -86,7 +86,7 @@ button {
     .wrapper{
         width: 90%;
     }
-    button{
+    .botones button{
         padding: 1em 1.7em;
     }
 }
@@ -95,7 +95,7 @@ button {
     .botones{
         gap: 3px;
     }
-    button{
+    .botones button{
         padding: 0.5em 1em;
     }
 }
