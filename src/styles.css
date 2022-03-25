@@ -81,3 +81,21 @@ button {
    button:active {
     transform: translateY(-1px);
 }
+
+@media (max-width: 525px) {
+    .contenedor{
+        width: 90%;
+    }
+    button{
+        padding: 1em 1.7em;
+    }
+}
+
+@media (max-width: 420px) {
+    .botones{
+        gap: 3px;
+    }
+    button{
+        padding: 0.7em 1.4em;
+    }
+}
