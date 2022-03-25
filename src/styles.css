@@ -83,7 +83,7 @@ button {
 }
 
 @media (max-width: 525px) {
-    .contenedor{
+    .wrapper{
         width: 90%;
     }
     button{
@@ -96,6 +96,6 @@ button {
         gap: 3px;
     }
     button{
-        padding: 0.7em 1.4em;
+        padding: 0.5em 1em;
     }
 }
